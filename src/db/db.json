@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "145eb4e0-c028-43f8-b280-9c3aa42a6228",
+    "name": "Roger Kreiger",
+    "phone": "229-411-8954 x09293",
+    "email": "Sylvan.Marquardt@yahoo.com",
+    "job": "Human Marketing Architect"
+  },
+  {
+    "id": "ffa0d103-ee2a-4048-b2c1-ef4c5e57eb09",
+    "name": "Nicole Ledner",
+    "phone": "(720) 946-8740",
+    "email": "Nelson90@yahoo.com",
+    "job": "Lead Web Facilitator"
+  },
+  {
+    "id": "8d4c4a3a-4fdb-4910-a71d-eda69f47b569",
+    "name": "Dr. Luther Boyle PhD",
+    "phone": "482-955-4815 x1146",
+    "email": "Nannie_Mraz21@hotmail.com",
+    "job": "Senior Applications Analyst"
+  },
+  {
+    "id": "57b32134-9a80-48c2-ac7f-bc89f2f7acde",
+    "name": "Lucy Klein",
+    "phone": "419.791.2770",
+    "email": "Shyanne92@yahoo.com",
+    "job": "Internal Directives Executive"
+  },
+  {
+    "id": "875747e6-7311-4cd3-8cb8-c4d4e8ac1b9b",
+    "name": "Aubrey Hand",
+    "phone": "(630) 926-2266 x7683",
+    "email": "Pierre_Russel@hotmail.com",
+    "job": "Direct Applications Facilitator"
+  }
+]
